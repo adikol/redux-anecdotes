@@ -1,0 +1,49 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "id": "47145",
+      "votes": 22
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "id": "25170",
+      "votes": 23
+    },
+    {
+      "content": "hello",
+      "votes": 12,
+      "id": "fSYzOF1"
+    },
+    {
+      "content": "hello is better than hi",
+      "votes": 2,
+      "id": "p8s6ZYX"
+    },
+    {
+      "content": "ajlfkjaf",
+      "votes": 4,
+      "id": "cLxY-b4"
+    },
+    {
+      "content": "afafaf",
+      "votes": 2,
+      "id": "aOn_94k"
+    },
+    {
+      "content": "fafafaf",
+      "votes": 5,
+      "id": "hAgbyvn"
+    },
+    {
+      "content": "afaf",
+      "votes": 4,
+      "id": "Jqzyq_7"
+    },
+    {
+      "content": "afafaf",
+      "votes": 4,
+      "id": "2eA5SEY"
+    }
+  ]
+}
